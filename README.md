@@ -8,4 +8,4 @@ This project demonstrates the basics of a shallow neural network, including forw
 
 ## Usage
 
-[Open in Google Colab](https://colab.research.google.com/drive/1dEV6QiC2-cU_XMhsX85BaqBqX4Q-Z3I9?usp=sharing){:target="\_blank"}
+[Open in Google Colab](https://colab.research.google.com/drive/1dEV6QiC2-cU_XMhsX85BaqBqX4Q-Z3I9?usp=sharing)
